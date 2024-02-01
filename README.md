@@ -1,4 +1,4 @@
-## 🏛 This Repository is Archived. Have a look at the [rebuilt clone](https://github.com/nagarajpandith/netflix-2.0) instead.
+##  This Repository is Archived. Have a look at the [rebuilt clone](https://github.com/nagarajpandith/netflix-2.0) instead.
 
 # Netflix-Clone
 A Responsive front-end clone of Netflix website built as a part of 7 Day Clone building bootcamp by https://www.shapeai.tech/ 
